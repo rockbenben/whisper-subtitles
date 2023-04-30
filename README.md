@@ -12,11 +12,7 @@
 转录翻译流程：
 
 1. 参考 [whisper 转录教程](https://newzone.top/posts/2022-11-18-whisper_ai_subtitles.html)。
-2. 使用[字幕翻译](https://tools.newzone.top/subtitle-translator)工具。如果没有 Google Translate API，可使用转录教程中的网页翻译方法。
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord">
-</a>
+2. 使用[字幕翻译](https://tools.newzone.top/subtitle-translator)工具。如果你没开通 Google Translate API，可以使用转录教程中提到的网页翻译方法。
 
 文档目录结构如下：
 
@@ -31,3 +27,7 @@ TV
     │     └── ja                 # 转录的源语言字幕，ja 为日语
     └── SEASON 0X                # 第X季
 ```
+
+<a href="https://discord.gg/PZTQfJ4GjX">
+   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord">
+</a>
