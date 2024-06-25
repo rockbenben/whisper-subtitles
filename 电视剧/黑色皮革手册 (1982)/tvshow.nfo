@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[《黑革手帖》是松本清张的长篇小说。以魑魅魍魉飞扬跋扈的世界为背景，描绘了侵吞巨额金钱，转行为银座俱乐部妈妈的女性银行职员，是作者毕加索悬疑的代表性长篇。《周刊新潮》作为《禁忌的连歌》第4集连载（1978年11月16日号-1980年2月14日号，连载中的插图是滨野彰亲），1980年6月，新潮社发行了单行本。之后还发售了新潮文库版和电子书版。1982年、1996年、2004年、2005年、2017年、2021年朝日电视台6次、1984年TBS电视台1次电视剧化。]]></plot>
+  <outline><![CDATA[《黑革手帖》是松本清张的长篇小说。以魑魅魍魉飞扬跋扈的世界为背景，描绘了侵吞巨额金钱，转行为银座俱乐部妈妈的女性银行职员，是作者毕加索悬疑的代表性长篇。《周刊新潮》作为《禁忌的连歌》第4集连载（1978年11月16日号-1980年2月14日号，连载中的插图是滨野彰亲），1980年6月，新潮社发行了单行本。之后还发售了新潮文库版和电子书版。1982年、1996年、2004年、2005年、2017年、2021年朝日电视台6次、1984年TBS电视台1次电视剧化。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-01 20:37:40</dateadded>
+  <title>黑色皮革手册</title>
+  <originaltitle>松本清張の黒革の手帖</originaltitle>
+  <actor>
+    <name>Yōko Yamamoto</name>
+    <role>Haraguchi Motoko</role>
+    <type>Actor</type>
+    <tmdbid>21500</tmdbid>
+  </actor>
+  <actor>
+    <name>Masakazu Tamura</name>
+    <role>Yasujima Tomio</role>
+    <type>Actor</type>
+    <tmdbid>1093434</tmdbid>
+    <imdbid>nm0848785</imdbid>
+  </actor>
+  <actor>
+    <name>Hisako Manda</name>
+    <role>Yamada Namiko</role>
+    <type>Actor</type>
+    <tmdbid>553323</tmdbid>
+  </actor>
+  <actor>
+    <name>Takao Inoue</name>
+    <role>Murai Toru</role>
+    <type>Actor</type>
+    <tmdbid>138752</tmdbid>
+  </actor>
+  <actor>
+    <name>Yonetaro Ozawa</name>
+    <type>Actor</type>
+    <tmdbid>3098458</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>1982</year>
+  <sorttitle>Matsumoto Seicho no kurokawa no techo</sorttitle>
+  <tmdbid>125019</tmdbid>
+  <premiered>1982-01-04</premiered>
+  <releasedate>1982-01-04</releasedate>
+  <enddate>1982-02-08</enddate>
+  <runtime>45</runtime>
+  <genre>剧情</genre>
+  <uniqueid type="tvdb">423606</uniqueid>
+  <tvdbid>423606</tvdbid>
+  <uniqueid type="tmdb">125019</uniqueid>
+  <episodeguide>{"tvdb":"423606","tmdb":"125019"}</episodeguide>
+  <id>423606</id>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+  <showtitle>黑色皮革手册</showtitle>
+  <ratings>
+    <rating default="true" max="10" name="tmdb">
+      <value>0.0</value>
+      <votes>0</votes>
+    </rating>
+  </ratings>
+  <userrating>0.0</userrating>
+  <thumb aspect="poster">http://image.tmdb.org/t/p/original/otZlPTNcYeheZHlGt3yt7UE2dEc.jpg</thumb>
+  <namedseason number="1">第 1 季</namedseason>
+  <namedseason number="2">第 2 季</namedseason>
+  <namedseason number="3">第 3 季</namedseason>
+  <namedseason number="4">第 4 季</namedseason>
+  <namedseason number="5">第 5 季</namedseason>
+  <namedseason number="6">第 6 季</namedseason>
+  <namedseason number="7">第 7 季</namedseason>
+  <fanart>
+    <thumb>http://image.tmdb.org/t/p/original/gGFLuxxueL115Oi3n2KHoqKW5BC.jpg</thumb>
+  </fanart>
+  <certification />
+  <watched>false</watched>
+  <playcount />
+  <user_note />
+</tvshow>
