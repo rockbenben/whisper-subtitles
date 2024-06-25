@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[大多数の都市生活者が眼をむけるニューヨーク。同時にあこがれと現実が交錯する躍動の街ニューヨーク。いまやニューヨークは遠い街、遠い国ではなくもっとも近い街となりつつある。
+
+この物語は、そんなニューヨークに暮す8人の男と女の“ふれあい”を通して、それぞれの生きざま、愛のあり方をみつめようとするもの。]]></plot>
+  <outline><![CDATA[大多数の都市生活者が眼をむけるニューヨーク。同時にあこがれと現実が交錯する躍動の街ニューヨーク。いまやニューヨークは遠い街、遠い国ではなくもっとも近い街となりつつある。
+
+この物語は、そんなニューヨークに暮す8人の男と女の“ふれあい”を通して、それぞれの生きざま、愛のあり方をみつめようとするもの。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-14 19:35:54</dateadded>
+  <title>ニューヨーク恋物語</title>
+  <originaltitle>ニューヨーク恋物語</originaltitle>
+  <actor>
+    <name>Masakazu Tamura</name>
+    <type>Actor</type>
+    <tmdbid>1093434</tmdbid>
+  </actor>
+  <actor>
+    <name>Kayoko Kishimoto</name>
+    <type>Actor</type>
+    <tmdbid>13255</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiroyuki Sanada</name>
+    <type>Actor</type>
+    <tvdbid>367569</tvdbid>
+    <tmdbid>9195</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>1988</year>
+  <sorttitle>ニューヨーク恋物語</sorttitle>
+  <tmdbid>126075</tmdbid>
+  <premiered>1988-10-13</premiered>
+  <releasedate>1988-10-13</releasedate>
+  <enddate>1988-12-22</enddate>
+  <runtime>0</runtime>
+  <genre>Drama</genre>
+  <studio>Fuji TV</studio>
+  <uniqueid type="tmdb">126075</uniqueid>
+  <uniqueid type="tvdb">384981</uniqueid>
+  <tvdbid>384981</tvdbid>
+  <id>384981</id>
+  <episodeguide>
+    <url cache="384981.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/384981/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+  <showtitle>ニューヨーク恋物語</showtitle>
+  <ratings>
+    <rating default="true" max="10" name="tmdb">
+      <value>0.0</value>
+      <votes>0</votes>
+    </rating>
+  </ratings>
+  <thumb aspect="poster">http://image.tmdb.org/t/p/original/mquRwHq8J6VQ4WBhzSV2Wo72iUd.jpg</thumb>
+  <namedseason number="1">第 1 季</namedseason>
+  <certification />
+  <user_note />
+</tvshow>

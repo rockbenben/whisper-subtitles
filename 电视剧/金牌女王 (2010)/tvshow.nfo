@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2024-06-17 06:56:36 - tinyMediaManager 4.0.7-->
+<tvshow>
+  <title>金牌女王</title>
+  <originaltitle>GOLD</originaltitle>
+  <showtitle>金牌女王</showtitle>
+  <sorttitle>金牌女王</sorttitle>
+  <year>2010</year>
+  <ratings>
+    <rating default="true" max="10" name="tmdb">
+      <value>6.5</value>
+      <votes>5</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>5.7</value>
+      <votes>57</votes>
+    </rating>
+  </ratings>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>　　早乙女悠里（天海佑希 饰）不仅是个成功的企业家而且是三个伦敦奥运热门候选人的母亲。作为一个主妇的大众偶像，她一直奉行并在电视上推广她斯巴达式的教育理念——“你的孩子是Beautiful child还是Poor child？”性格迷糊可爱的新仓里佳（长泽雅美 饰）被聘用为早乙女悠里新的总裁秘书，并被悠里一针见血的评论说的无地自容。但是这个表面上光鲜亮丽的家庭，却暗地里隐隐出现了分崩离析的隐患。先是上进心强的次子早乙女廉（矢野圣人 饰）突然宣布要退出田径队，从今以后要过自由人生；接着性格最像母亲的长女早乙女晶（武井咲 饰）因为暗恋教练莲见丈治（反町隆史 饰）不成，又被人利用陷入感情危机；让人没料想到的是，连一向最懂事优秀的长子早乙女洸（松坂桃李 饰）因为逃避越来越临近的奥运选拔赛，竟然做出让母亲无法接受的行为。难道悠里一开始就错了？这风雨飘摇的一家人能否安然度过危机？</plot>
+  <tagline/>
+  <runtime>54</runtime>
+  <thumb aspect="poster">http://image.tmdb.org/t/p/original/vpYfloTWYqBQtBCkn3ncGSZbVd8.jpg</thumb>
+  <namedseason number="1">第 1 季</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/seasons/180141-1.jpg</thumb>
+  <fanart>
+    <thumb>http://image.tmdb.org/t/p/original/bwrGaCKB0vIpzRAYSVhocDrF60u.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <episodeguide>
+    <url cache="auth.json" post="yes">https://api.thetvdb.com/login?{"apikey":"439DFEBA9D3059C6","id":180141}|Content-Type=application/json</url>
+  </episodeguide>
+  <id>180141</id>
+  <imdbid>tt1677254</imdbid>
+  <uniqueid default="false" type="tmdb">34011</uniqueid>
+  <uniqueid default="false" type="imdb">tt1677254</uniqueid>
+  <uniqueid default="true" type="tvdb">180141</uniqueid>
+  <premiered>2010-07-08</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>剧情</genre>
+  <studio/>
+  <tag>japan</tag>
+  <tag>diving</tag>
+  <tag>olympic games</tag>
+  <tag>swimming</tag>
+  <tag>platform diving</tag>
+  <tag>olympic athlete</tag>
+  <actor>
+    <name>天海祐希</name>
+    <role>Yuri Saotome</role>
+    <thumb>http://image.tmdb.org/t/p/h632/h5OODF0k6lOomoA6T4BzyqFTcdL.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/78350</profile>
+  </actor>
+  <actor>
+    <name>长泽雅美</name>
+    <role>Nikura Rika</role>
+    <thumb>http://image.tmdb.org/t/p/h632/g5m4nwA95afODsscBkUEzX8Qq0Y.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/87637</profile>
+  </actor>
+  <actor>
+    <name>反町隆史</name>
+    <role>Hasumi Joj</role>
+    <thumb>http://image.tmdb.org/t/p/h632/iuhsVaQUiWB3ZbQP9M4DS33c55D.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/58050</profile>
+  </actor>
+  <actor>
+    <name>寺岛进</name>
+    <role>Akashi Tatsuya</role>
+    <thumb>http://image.tmdb.org/t/p/h632/ls7hOjfFjOOTow7x0IP4GhcCeJf.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/4990</profile>
+  </actor>
+  <actor>
+    <name>武井咲</name>
+    <role>Saotome Akira</role>
+    <thumb>http://image.tmdb.org/t/p/h632/aGg47CnHc1wgIOtwt4rbQWbWuDg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1084910</profile>
+  </actor>
+  <actor>
+    <name>Masato Yano</name>
+    <role>Saotome Ren</role>
+    <thumb>http://image.tmdb.org/t/p/h632/nMkqO0kp5Kc3Vc8UnITzGnhKJoc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1369117</profile>
+  </actor>
+  <actor>
+    <name>松坂桃李</name>
+    <role>Saotome Kou</role>
+    <thumb>http://image.tmdb.org/t/p/h632/8JcMm3al3gySuay2EiW3CI19Apj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1105808</profile>
+  </actor>
+  <trailer/>
+  <dateadded>2023-04-05 18:40:15</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>
